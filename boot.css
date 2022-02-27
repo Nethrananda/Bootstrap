@@ -1,0 +1,209 @@
+*{
+
+				font-family: 'Open Sans', sans-serif;			 font-size: 14px; 
+
+			/*  *	 font-weight: 300;/*  */
+
+				line-height: 1.625em;
+
+}
+
+.logo{
+
+				width: 150px;
+
+				height: 50px;
+
+}
+
+.ws-nav .nav-item{
+
+				padding: 10px 10px;
+
+}
+
+.ws-nav .nav-item{
+
+				font-weight: bold;
+
+				text-transform: uppercase;
+
+}
+
+#ws-slider .carousel-item img{
+
+				height: 450px;
+
+}
+
+.overlay{
+
+				height: 100%;
+
+				width: 100%;
+
+				background-color: rgba(0,0,0,0.5);
+
+}
+
+#ws-slider .carousel-caption{
+
+				button: 300px!important;
+
+}
+
+#ws-slider .carousel-caption div{
+
+				font-size: 50px;
+
+				text-transform: uppercase;
+
+				font-weight: bold;
+
+}
+
+.content{
+
+				height: 200px;
+
+				background: #bfeaff;
+
+				width: 100%;
+
+		 	padding: 20px;
+
+		 	box-sizing: border-box;
+
+		 	transition: 1s;
+
+		 	color: #222;
+
+}
+
+.content .Inr{
+
+			
+
+				font-weight: 400;
+
+				margin-right: 12px;
+
+				font-size: 20px;
+
+}
+
+.content:hover{
+
+    color: white;
+
+				background: #0095da;
+
+}
+
+.content:hover .content .Inr{
+
+				color: white;
+
+}
+
+.form-in input{
+
+				height: 70px;
+
+				border-bottom: 1px solid lightgrey;
+
+				font-size: 15px;
+
+				border-radius: 0px;
+
+}
+
+.form-in textarea{
+
+				border-bottom: 1px solid lightgrey;
+
+				font-size: 15px;
+
+				border-radius: 0px;
+
+}
+
+.footer{
+
+				background-color: #2c3e50;
+
+				padding-top: 70px;
+
+				padding-bottom: 70px;
+
+}
+
+.footer h3{
+
+				color: white;
+
+				font-weight: bold;
+
+}
+
+.footer p{
+
+				color: white;
+
+				font-size: 15px;
+
+				padding-top: 30px;
+
+}
+
+.footer input{
+
+				width: 180px;
+
+				background-color: black;
+
+				font-color: grey;
+
+				border-color: black;
+
+}
+
+.s-links{
+
+				margin-top: 40px;
+
+}
+
+.s-links i{
+
+				width: 50px;
+
+				height: 50px;
+
+				border: 1px solid white;
+
+				line-height: 50px;
+
+				color: white;
+
+				font-size: 25px;
+
+				border-radius: 25px;
+
+				margin-top: 10px;
+
+				transition: 0.5s;
+
+				cursor: pointer;
+
+				margin-bottom: 25px;
+
+}
+
+.s-links i:hover{
+
+				background: white;
+
+				color: black;
+
+}
